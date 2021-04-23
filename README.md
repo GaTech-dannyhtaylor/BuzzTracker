@@ -37,8 +37,10 @@ The project was divided into milestones that spanned the entire semester. The mi
 
 A video showing the application can be seen here:
 
-Inline-style: 
-![Demo 1](https://github.com/dannyhtaylor/BuzzTracker/blob/main/Demos/BuzzTracker_Demo.gif "Demo 1")
+Demo 1      |  Demo 2
+:-------------------------:|:-------------------------:
+![Demo 1](https://github.com/dannyhtaylor/BuzzTracker/blob/main/Demos/BuzzTracker_Demo.gif "Demo 1")  |  ![Demo 2](https://github.com/dannyhtaylor/BuzzTracker/blob/main/Demos/BuzzTracker_Demo_2.gif "Demo 2")
+
 
 
 ## Installation & Testing
