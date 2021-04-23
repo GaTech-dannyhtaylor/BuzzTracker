@@ -37,6 +37,9 @@ The project was divided into milestones that spanned the entire semester. The mi
 
 A video showing the application can be seen here:
 
+Inline-style: 
+![Demo 1](https://github.com/dannyhtaylor/BuzzTracker/blob/main/Demos/BuzzTracker_Demo.gif "Demo 1")
+
 
 ## Installation & Testing
 You will need to install Android Studio to view this project. However, it's advisable to first install java on your system first. Java 8 installed on the systems that developed this app, but any version higher should work fine.
